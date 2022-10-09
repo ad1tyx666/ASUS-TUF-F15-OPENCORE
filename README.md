@@ -1,5 +1,7 @@
 # ASUS-TUF-F15-OPENCORE
 OpenCore EFI for ASUS TUF Gaming F15 FX506LH-HN258W
+
+You can change your wifi card to an (intel wifi card) to make wifi work
                     
 Specs  | Status
 ------------- | -------------
