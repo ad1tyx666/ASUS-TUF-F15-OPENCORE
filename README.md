@@ -4,7 +4,6 @@ OpenCore EFI for ASUS TUF Gaming F15 FX506LH-HN258W
 You can change your wifi card to an (intel wifi card) to make wifi work
                     
 Specs  | Status
-------------- | -------------
 CPU  | i5-10300H :white_check_mark:
 GPU  | iGPU :white_check_mark:, dGPU :x:
 RAM  | 24GB 3200MHz :white_check_mark: 
