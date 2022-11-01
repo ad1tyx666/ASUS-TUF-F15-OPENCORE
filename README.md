@@ -13,3 +13,5 @@ Ethernet  | RTL8168/8111 :white_check_mark:
 WiFi & BT  | MT7921 :warning:
 Touchpad  | ELAN I2C HID :white_check_mark:
 Battery & Status | :white_check_mark:
+⭐ Please consider starring this repository if it helped you! ⭐
+
