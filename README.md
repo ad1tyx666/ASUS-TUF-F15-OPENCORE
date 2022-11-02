@@ -16,4 +16,4 @@ Battery & Status | :white_check_mark:
 <p align="center">
 <b>⭐ Please consider starring this repository if it helped you! ⭐</b>
 </p>
-If you need support [Telegram](https://t.me/hackintoshparadise)
+If you need support https://t.me/hackintoshparadise
