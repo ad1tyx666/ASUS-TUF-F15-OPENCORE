@@ -17,3 +17,4 @@ Battery & Status | :white_check_mark:
 <b>⭐ Please consider starring this repository if it helped you! ⭐</b>
 </p>
 If you need support https://t.me/hackintoshparadise
+                    https://discord.gg/J8PeCU4hs4
