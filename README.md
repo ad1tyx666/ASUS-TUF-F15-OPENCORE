@@ -22,6 +22,6 @@ sorry guys but due to few issues i have to stop maintaining this repo/efi but do
 also the efi will always be avaliable on my github and you can always update it using https://dortania.github.io/OpenCore-Post-Install/universal/update.html , hope you understand
 
 ## Donate -
-<a href="https://www.buymeacoffee.com/ad1tyx666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=vinc3nt0&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<a href="https://www.buymeacoffee.com/ad1tyx666"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=ad1tyx666&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 If you enjoyed this project — or just feeling generous, consider buying me a coffee ☕
